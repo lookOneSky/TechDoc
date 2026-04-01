@@ -1,7 +1,12 @@
-### 日志文件
-C:\Users\das\AppData\Roaming\PICO Developer Center\logs
-Rendec下载目录错误，启动不了问题
+# Pico播控软件
+能力：
+1.添加设备、设备分组、分组空间划分
+2.启动设备游戏、停止设备游戏
+3.设备状态监控、设备画面显示
+4.作为服务端，设备之间的位置信息交互。
+5.鉴权连入设备
 
 
-### render 调试 vulkan失败问题
-Pico4Ultra没办法调试Vulkan.
+ToDo:
+1.Pico企业版SDK功能描述
+2.Pico官方是否有播控软件
